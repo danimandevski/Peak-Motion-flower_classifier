@@ -3,3 +3,4 @@ inat_images/
 images/
 .idea/
 __pycache__/
+.env
